@@ -1,0 +1,14 @@
+C:\Users\raaga\source\repos\lab5\bin\Debug\net8.0\lab5.exe
+C:\Users\raaga\source\repos\lab5\bin\Debug\net8.0\lab5.deps.json
+C:\Users\raaga\source\repos\lab5\bin\Debug\net8.0\lab5.runtimeconfig.json
+C:\Users\raaga\source\repos\lab5\bin\Debug\net8.0\lab5.dll
+C:\Users\raaga\source\repos\lab5\bin\Debug\net8.0\lab5.pdb
+C:\Users\raaga\source\repos\lab5\obj\Debug\net8.0\lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raaga\source\repos\lab5\obj\Debug\net8.0\lab5.AssemblyInfoInputs.cache
+C:\Users\raaga\source\repos\lab5\obj\Debug\net8.0\lab5.AssemblyInfo.cs
+C:\Users\raaga\source\repos\lab5\obj\Debug\net8.0\lab5.csproj.CoreCompileInputs.cache
+C:\Users\raaga\source\repos\lab5\obj\Debug\net8.0\lab5.dll
+C:\Users\raaga\source\repos\lab5\obj\Debug\net8.0\refint\lab5.dll
+C:\Users\raaga\source\repos\lab5\obj\Debug\net8.0\lab5.pdb
+C:\Users\raaga\source\repos\lab5\obj\Debug\net8.0\lab5.genruntimeconfig.cache
+C:\Users\raaga\source\repos\lab5\obj\Debug\net8.0\ref\lab5.dll
